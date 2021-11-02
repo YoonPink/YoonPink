@@ -6,4 +6,4 @@
 ![](https://img.shields.io/github/followers/YoonPink?color=ffddff&logoColor=ffddff&style=social)
 
  -🌱 I’m currently learning learning the basics of coding
- -⚡ Fun fact: I'm 18 years old!
+-⚡ Fun fact: I'm 18 years old!
