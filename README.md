@@ -8,3 +8,5 @@
 - I’m currently learning learning the basics of coding
 
 - I'm attending Samil Technical High School and I'm 18 years old.
+
+I'm going to keep adding it!!
