@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonPink&show_icons=true&theme=jolly)
-<p align="center">
+<p align="lift">
   <a href="https://github.com/devxb/CommitCombo">
     <img src="http://commitcombo.com/theme?user=YoonPink&theme=Cloud&v=2)" width = "300" height = "auto"/>
   </a>
