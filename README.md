@@ -2,7 +2,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonPink&show_icons=true&theme=jolly)
 [![commitcombo](http://commitcombo.com/theme?user=YoonPink&theme=Cloud&v=2)](https://github.com/devxb/CommitCombo)
 <p align="left">
-  <a href="https://github.com/devxb/CommitCombo">
     <img src="http://commitcombo.com/theme?user=YoonPink" width = "300" height = "auto"/>
   </a>
 </p>
